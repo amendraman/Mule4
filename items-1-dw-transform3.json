@@ -1,0 +1,27 @@
+{
+	"items" : [
+		{
+			"type" : "book",
+			"label" : "Java Curiosities",
+			"author" : "victor",
+			"image" : "baba",
+			"url" : "http://www.book.com"
+		},
+		{
+			"type" : "CD",
+			"label" : "black",
+			"author" : "Luis Miguel",
+			"image" : "yonko"
+		},
+		{
+			"type" : "book",
+			"label" : "blue",
+			"author" : "The Beatles"
+		},
+		{
+			"type" : "CD",
+			"label" : "green",
+			"author" : "The Beatles"
+		}
+			   ]
+}
