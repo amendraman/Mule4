@@ -1,0 +1,20 @@
+{
+  "patents": [
+    {
+      "owner": "Joel Miguel",
+      "categories": "book"
+    },
+    {
+      "owner": "Joel Miguel",
+      "categories": "CD"
+    },
+    {
+      "owner": "Victor Romero",
+      "categories": "book"
+    },
+    {
+      "owner": "The Beatles",
+      "categories": "CD"
+    }
+  ]
+}
